@@ -1,3 +1,7 @@
+# TEST DATA - Do not modify
+account_holder = "Taylor Banks"
+starting_balance = 487
+withdrawal_amount = 120
 atm_fee = 3
 monthly_fee = 15
 months_inactive = 8
